@@ -7,3 +7,5 @@ pom.xml
 /.project
 /.lein-failures
 /target
+/bin
+/.classpath
