@@ -10,7 +10,7 @@
                  [org.clojure/java.jdbc "0.3.3"]
                  [clj-time "0.6.0"]
                  [compojure "1.1.6"]
-                 [liberator "0.10.0"]
+                 [liberator "0.11.0"]
                  [cheshire "5.3.1"]
                  [net.mikera/clojure-utils "0.6.0"]
                  [javax.servlet/servlet-api "2.5"]
